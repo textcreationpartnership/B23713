@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from the port of Kingsdale in Ireland giving a true account of the arrival of Admiral Herbert, of his taking that same place, and of King James.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23713</idno><idno type="EEBO-CITATION">15735128</idno>
+  <idno type="VID">206195</idno>
+  <idno type="EEBO-PROQUEST">2240890050</idno>
+  
+            <idno type="STC">Wing G1737A</idno>
+            <idno type="OCLC">15735128</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23713)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206195)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1593:52)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from the port of Kingsdale in Ireland giving a true account of the arrival of Admiral Herbert, of his taking that same place, and of King James.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Asburne ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Torrington, Arthur Herbert, --  Earl of, 1647-1716.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:206195:1"/>
+            <head>Great <hi>NEWS</hi> from Port of Kingsale in Ireland: Giving a true <hi>Account</hi> of the Arrival of Admiral <hi>HERBERT;</hi> Of his Taking the same Place. And of King JAMES.</head>
+            <head type="sub">Of his Grace Duke <hi>Schomberg</hi>'s Landing, and other material Occurrences.</head>
+            <div type="license">
+               <p>
+                  <hi>Licensed</hi> August 19. 1689. <hi>J. Fraser.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>THE Port being more open since the Return of the Forces from the North, I found an Opportunity by Captain <hi>Beal</hi> to inclose the particulars to the Sheriff of <hi>Chester</hi> with di<g ref="char:EOLhyphen"/>rection to be sent forward.</p>
+               <p>You Impose upon me a difficult Task, to Recite the Occurrences here, the very Memory of which is Dismal. We were Miserable enough before, but when the Duke of <hi>Berwick</hi> Return'd in that Confu<g ref="char:EOLhyphen"/>sion before <hi>London-Derry,</hi> never were People in such a Distraction; Twelve of the Captains of the Re<g ref="char:EOLhyphen"/>giment of Guards, who were all that Return'd of Twenty Four Companies, laid down their Com<g ref="char:EOLhyphen"/>missions in hopes to Compound for their Lives and Estates. Since whole Regiments have followed their Example, as Col. <hi>Kennedy</hi> of the County of <hi>Tiperary,</hi> Col. <hi>Scot</hi> of the <hi>Queens County,</hi> and others. The famous Soldier M. G. <hi>Macarty</hi> was Kill'd, or Mortally Wounded, before <hi>Inniskilling,</hi> where they lost a great many Men, Mr. <hi>Fitz James</hi> with some principal Voluntiers and Officers, were brought Wounded to Town. <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng <hi>James</hi> upon this Deser<g ref="char:EOLhyphen"/>tion of the Officers was over-heard to say, <hi>I am Twice betray'd.</hi>
+               </p>
+               <p>As an Omen of worse Success, that very Night fell down the Mid Rampier of the Black Tower of the Castle, with the Fane, on which was dis<g ref="char:EOLhyphen"/>play'd the Crown and Regal Arms, which did no harm, only Kill'd the Sentry who was found Dead amongst the Rubbish. The same Night was blown up, (whither by Treachery or Chance we know not,) the little Store-house which was built in the Garden remote from the Castle. It shatter'd some Houses in St. <hi>George</hi>'s <hi>Lane,</hi> and <hi>Ship-street,</hi> but did no other damage.</p>
+               <p>King <hi>James,</hi> Jealous of some Treachery, (as his last Refuge,) Arms his dejected Protestants a<g ref="char:EOLhyphen"/>gain. An Oath of Fidelity is Administer'd, and Arms deliver'd, both which we are forced to take, or be no longer of this World. The <hi>French,</hi> (dif<g ref="char:EOLhyphen"/>daining that any Trust should be imposed in Here<g ref="char:EOLhyphen"/>ticks,) drew up in a Body of Two Hundred Horse to disarm us. We deny. An Officer is sent from King <hi>James</hi> to desire us to lay down. We Capitu<g ref="char:EOLhyphen"/>late and Promise, if they will let us March with our Arms into Town, we will deliver them at our own Houses upon Demand. It is granted, and we order'd to be ready upon the first Demand, other<g ref="char:EOLhyphen"/>wise, we are Threaten'd, (should we join with the Protestants,) to have the City Fir'd about out Ears, as they have done <hi>Carickfergus,</hi> and the rest of the North. And indeed this it is we most Dread, the <hi>Irish</hi> long having Attempted to make <hi>Waterford</hi> the Capital City.</p>
+               <p>While we are in this Confusion in <hi>Dublin,</hi> King <hi>James</hi> is advertis'd from <hi>Cork</hi> of the Approach of Admiral <hi>Herbert,</hi> and the <hi>English</hi> Fleet, which were before <hi>Brest,</hi> discover'd on that Coast, bearing up <hi>Westward,</hi> the Wind at <hi>S. W.</hi> and by <hi>S.</hi> K. <hi>James</hi> by their Steering that Coast, being jealous of some Design of <hi>Kingsail,</hi> gathers all his scatter'd Forces together, <hi>French</hi> and <hi>Irish,</hi> with a design to Rein<g ref="char:EOLhyphen"/>force that Garrison. They Marched out of <hi>Dublin</hi> on <hi>Thursday</hi> the 8th. Instant. 8000 strong, Natives and Auiliaties, under the Command of the <hi>French</hi> General <hi>Rose.</hi> On <hi>Saturday</hi> the 10th. The King accompany'd with Coll. <hi>Porter,</hi> Coll. <hi>Stuart</hi> and Two more, follow'd in the Reer, with Resolution to secure one Important Garrison, if he had Re<g ref="char:EOLhyphen"/>linqish'd another, and Recover in the <hi>West</hi> what he had lost in the <hi>North.</hi>
+               </p>
+               <p>But see the Fate that Attends the Unfortunate Scarce had he got a days Journy off, when Captain <hi>Kelly</hi> who was sent to observe the motions of the <hi>English</hi> Fleet at <hi>Chester,</hi> brought an Express, that his Grace General <hi>Schomberg</hi> had Embarqu'd all his Forces on the 8th. which was Two days before the King left <hi>Dublin:</hi> The General himself being on Board, and fallen down unto <hi>Highlake,</hi> from whence he had set Sail with a fair Wind, and con<g ref="char:EOLhyphen"/>sequently must Land in a few Hours in some Place<g ref="char:EOLhyphen"/>about <hi>Dublin:</hi> Count <hi>Zolms,</hi> having set out some days before, with the same Expedition for the <hi>North.</hi>
+               </p>
+               <p>In this Exigence, it is hard to Determin what is to be don. If we loose <hi>Dublin,</hi> we loose <hi>Ireland.</hi> If we loose <hi>Kingsale,</hi> we shall loose our Interest with <hi>France.</hi> The <hi>French</hi> Advice is to go back and Fire <hi>Dublin,</hi> and though the <hi>Irish</hi> be naturally Inclined to Cruellty, yet are they Animated by the <hi>French,</hi> to Commit this Barbarity, which had it not been pre<g ref="char:EOLhyphen"/>vented by K. <hi>James</hi> himself, had at that In<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ant been put in Execution.</p>
+               <p>An Army of 1500 Men, being left in and about <hi>Dublin,</hi> to secure the King's Return, he Marches with his 8000 Confederates towards <hi>Kingsale.</hi> He had not reach'd <hi>Clonmel,</hi> when an Express is brought him by Ensign <hi>Bourk,</hi> that <hi>Herbert</hi> was with his whole Fleet before <hi>Kingsale,</hi> that he had Landed 12000 Men, and Beseiged the Garrison. Scarce had he Wisper'd his Doleful News, when Capt. <hi>Coughlin</hi> Rideing in full Speed, Informs him that <hi>Kingsale</hi> was Beseiged by Admiral <hi>Herbert,</hi> nay, and what was worse, that by that time he fear'd it was Sur<g ref="char:EOLhyphen"/>render'd. Disdaining the Report, he Orders the Messengers to be Secur'd, and seeming Undaunted at the News, Marches on with his Army, since which time he has not been heard of, which has given occasion of some Discourse which I shall not mention until better Information.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>John Ashburne</hi> over against <hi>St. Dunston</hi>'s Church in <hi>Fleetstreet,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
